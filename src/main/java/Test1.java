@@ -1,2 +1,2 @@
-public class Tet1 {
+public class Test1 {
 }
